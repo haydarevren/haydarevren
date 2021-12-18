@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://www.hackerrank.com/haydarevren">
-    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badges.PNG" width=498 />
+    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badge.PNG" width=498 />
   </a>
   
   <a href="https://www.hackerrank.com/haydarevren">
