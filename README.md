@@ -17,6 +17,15 @@
   <a href="https://leetcode.com/haydarevren">
     <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=haydarevren&border=0.5&style=auto&font=Baloo%202&width=498&r=0" />
   </a>
+  
+  <a href="https://www.hackerrank.com/haydarevren">
+    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badges.PNG" width=498 />
+  </a>
+  
+  <a href="https://www.hackerrank.com/haydarevren">
+    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG" width=498 />
+  </a>
+  
 </p>
 <!--
 **haydarevren/haydarevren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
