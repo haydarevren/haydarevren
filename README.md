@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haydar!</h1>
 
-- 📄 Know about my experiences via my [Website](https://haydarevren.github.io) and [LinkedIn page](https://www.linkedin.com/in/haydar-evren/)
+- 📄 Know about my experiences via my [Website](https://haydarevren.com) and [LinkedIn page](https://www.linkedin.com/in/haydar-evren/)
 
 - 📫 Don't hesitate to touch with me on **haydaremin@gmail.com**
 
