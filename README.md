@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haydar!</h1>
 
-- 📄 Know about my experiences via my [Website](https://haydarevren.com) and [LinkedIn page](https://www.linkedin.com/in/haydar-evren/)
+- Know about my experiences via my [Website](https://haydarevren.com) and [LinkedIn page](https://www.linkedin.com/in/haydar-evren/)
 
-- 📫 Don't hesitate to touch with me on **haydaremin@gmail.com**
+- Don't hesitate to touch with me on **haydaremin@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
