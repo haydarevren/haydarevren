@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haydar!</h1>
 
-- Know about my experiences via my [Website](https://haydarevren.com) and [LinkedIn page](https://www.linkedin.com/in/haydar-evren/)
+- Know about my experiences via my [**Website**](https://haydarevren.com) and [**LinkedIn page**](https://www.linkedin.com/in/haydar-evren/)
 
 - Don't hesitate to touch with me on **haydaremin@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/haydar-evren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evren" height="30" width="40" /></a>
-<a href="https://www.facebook.com/haydar.evren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evren" height="30" width="40" /></a>
-<a href="https://www.instagram.com/haydaremin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evren" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -30,24 +23,19 @@
 
 <h3 align="center">Some Stats:</h3>
 <p align="center"> 
-
-  <a href="https://github.com/haydarevren?tab=repositories">
-    <img title="Haydar Evren's Github Stats" alt="HaydarEvren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haydarevren&count_private=true&show_icons=true&theme=react&bg_color=90,000000,aaaaaa" height=200 width=300 />
+  <a href="https://www.hackerrank.com/haydarevren">
+    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badge.PNG" width=400 />
+  </a>
+  <a href="https://www.hackerrank.com/haydarevren">
+    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG"  width=400 />
   </a>
   
-  <a href="https://github.com/haydarevren#user-activity-overview">
-    <img title="Haydar Evren's Top Langs" alt="Haydar Evren's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydarevren&theme=react&bg_color=90,000000,aaaaaa" height=200 width=198/>
+  <a href="https://github.com/haydarevren?tab=repositories">
+    <img title="Haydar Evren's Github Stats" alt="HaydarEvren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haydarevren&count_private=true&show_icons=true&theme=react&bg_color=90,000000,aaaaaa"  />
   </a>
   
   <a href="https://leetcode.com/haydarevren">
-    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=haydarevren&border=0.5&style=auto&font=Baloo%202&width=498&r=0" />
+    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/haydarevren?theme=default&font=source_code_pro&extension=activity"  />
   </a>
-  <a href="https://www.hackerrank.com/haydarevren">
-    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badge.PNG" width=498 />
-  </a>
-  <a href="https://www.hackerrank.com/haydarevren">
-    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG" width=498 />
-  </a>
-</p>
-<!--
 
+</p>
