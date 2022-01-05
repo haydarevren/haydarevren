@@ -31,7 +31,7 @@
 <h3 align="center">Some Stats:</h3>
 <p align="center"> 
 
-<!--   <a href="https://github.com/haydarevren?tab=repositories">
+  <a href="https://github.com/haydarevren?tab=repositories">
     <img title="Haydar Evren's Github Stats" alt="HaydarEvren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haydarevren&count_private=true&show_icons=true&theme=react&bg_color=90,000000,aaaaaa" height=200 width=300 />
   </a>
   
@@ -47,7 +47,7 @@
   </a>
   <a href="https://www.hackerrank.com/haydarevren">
     <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG" width=498 />
-  </a> -->
+  </a>
 </p>
 <!--
 
