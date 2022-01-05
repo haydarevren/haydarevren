@@ -24,18 +24,15 @@
 <h3 align="center">Some Stats:</h3>
 <p align="center"> 
   <a href="https://www.hackerrank.com/haydarevren">
-    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badge.PNG" width=400 />
-  </a>
-  <a href="https://www.hackerrank.com/haydarevren">
-    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG"  width=400 />
+    <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badge.PNG" width=500 />
   </a>
   
-  <a href="https://github.com/haydarevren?tab=repositories">
-    <img title="Haydar Evren's Github Stats" alt="HaydarEvren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haydarevren&count_private=true&show_icons=true&theme=react&bg_color=90,000000,aaaaaa"  />
+  <a href="https://www.hackerrank.com/haydarevren">
+    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG"  width=500 />
   </a>
   
   <a href="https://leetcode.com/haydarevren">
-    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/haydarevren?theme=default&font=source_code_pro&extension=activity"  />
+    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/haydarevren?theme=default&font=source_code_pro&extension=activity" width=500 />
   </a>
 
 </p>
