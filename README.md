@@ -39,7 +39,7 @@
 </p> -->
 <p align="center">
   <a href="https://leetcode.com/haydarevren">
-<!--     <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/haydarevren?theme=default&font=source_code_pro&extension=activity" width=400 /> -->
+    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/haydarevren?theme=default&font=source_code_pro&extension=activity" width=400 />
   </a>
 
 </p>
