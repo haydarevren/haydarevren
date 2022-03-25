@@ -43,3 +43,8 @@
   </a>
 
 </p>
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="Haydar Evren's LeetCode Stats" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=haydarevren" width="400"/>
+</a>
+
