@@ -21,26 +21,26 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
 </p>
 
-<h3 align="center">Some Stats and Badges:</h3>
+<h3 align="center">Some Badges and Stats:</h3>
 <p align="center"> 
   <a href="https://www.credly.com/badges/c0d88173-bb12-4f6e-b343-aee1506ecc00">
     <img title="Haydar Evren's Data Science Certificate" alt="Haydar Evren's Data Science Certificate" src="TDI_fellowship.png" width=200 />
   </a>
 </p>
-<p align="center"> 
+
+<p align="center">
+  <a href="https://leetcode.com/haydarevren">
+    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcard.jacoblin.cool/haydarevren?ext=contest&theme=light&hide=ranking" width=400 />
+  </a>
+</p>
+
+<!-- <p align="center"> 
   <a href="https://www.hackerrank.com/haydarevren">
     <img title="Haydar Evren's Hackerrank Badges" alt="Haydar Evren's Hackerrank Badges" src="badge.PNG" width=400 />
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://www.hackerrank.com/haydarevren">
-    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG"  width=350 />
+    <img title="Haydar Evren's Hackerrank Verified Skills" alt="Haydar Evren's Hackerrank Verified Skills" src="skills.PNG"  width=400 />
   </a>
 </p> -->
-<p align="center">
-  <a href="https://leetcode.com/haydarevren">
-    <img title="Haydar Evren's LeetCode Stats" alt="Haydar Evren's LeetCode Stats" src="https://leetcode.card.workers.dev/haydarevren?theme=default&font=source_code_pro&extension=activity" width=400 />
-  </a>
-
-</p>
-
